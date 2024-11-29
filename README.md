@@ -24,9 +24,9 @@ Environmental consciousness starts with small steps. This app bridges the gap be
 - **Frontend:**  
   - HTML5, CSS3, JavaScript (PWA integration)  
 - **Backend:**  
-  - Python (Flask or FastAPI for server-side image classification)  
+  - PHP (For server-side image classification)  
 - **AI Classifier:**  
-  - Neural Network trained to categorize materials (e.g., brown glass, plastic, etc.)  
+  - Neural Network trained to categorize materials (e.g., glass, plastic, etc.)  
 
 ---
 
