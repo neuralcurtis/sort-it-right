@@ -31,6 +31,14 @@ Environmental consciousness starts with small steps. This app bridges the gap be
 ---
 
 ## 🚀 Installation & Setup  
+### Prerequisites  
+- Python 3.8 or above  
+- PHP
+- Python modules for neural network developement
+
+---
+
+## 🚀 Installation & Setup  
 1. Clone this repository:  
    ```bash  
-   git clone https://github.com/yourusername/waste-sorting-pwa.git  
+   https://github.com/neuralcurtis/sort-it-right.git
