@@ -21,7 +21,8 @@ Environmental consciousness starts with small steps. This app bridges the gap be
 ---
 
 ## Demo of the project
-![Demo](https://imgur.com/a/3LoV3Ox)
+![Screen Recording Nov 29 2024](https://github.com/user-attachments/assets/f028e686-473c-40bb-85e7-a5961217b519)
+
 
 ---
 
