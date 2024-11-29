@@ -5,13 +5,13 @@
 
 ## 📜 Features  
 - **📝 Informational Text:**  
-  - Three quick-access buttons provide predefined, easy-to-read waste management tips.  
+  - Quick-access buttons provide easy-to-read waste management tips.  
 
 - **🤖 AI Assistant:**  
   - Upload an image to identify the waste category using our server-hosted AI classifier.  
 
 - **📱 PWA-Friendly:**  
-  - Works seamlessly on both desktop and mobile devices, even offline!  
+  - Works seamlessly on both desktop and mobile devices, thanks to the Progressive Web App format!  
 
 ---
 
@@ -36,20 +36,13 @@ Environmental consciousness starts with small steps. This app bridges the gap be
 
 ---
 
-## 🚀 Installation & Setup  
-### Prerequisites  
+## 🚀 Setup requirements:
 - Python 3.8 or above  
 - PHP
 - Python modules for neural network developement
 
----
-
-## 🚀 Installation & Setup  
-1. Clone this repository:  
-   ```bash  
-   https://github.com/neuralcurtis/sort-it-right.git
 
 ---
 
 ## Note:
-### The software is provided as is. If you want to use it on your local machine, be ready to debug.
+### The software is provided as is and can be best described as "works on my machine". If you want to use it on your local machine, be ready to port and debug.
