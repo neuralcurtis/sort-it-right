@@ -42,3 +42,8 @@ Environmental consciousness starts with small steps. This app bridges the gap be
 1. Clone this repository:  
    ```bash  
    https://github.com/neuralcurtis/sort-it-right.git
+
+---
+
+## Note:
+### The software is provided as is. If you want to use it on your local machine, be ready to debug.
