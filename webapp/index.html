@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Сортування Сміття</title>
+  <link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+  <link rel="stylesheet" href="styles.css">
+  <link rel="manifest" href="/manifest.json">
+</head>
+<body>
+  <div class="container">
+    <h1 class="app-title">Sort it Right!</h1>
+    <button id="ai-helper" class="menu-button">
+      <i class="fas fa-robot"></i> AI-помічник для сортування
+    </button>
+    <button id="how-to-sort" class="menu-button">
+      <i class="fas fa-recycle"></i> Як користуватися програмою?
+    </button>
+    <button id="where-to-find" class="menu-button">
+      <i class="fas fa-map-marker-alt"></i> Де знайти сміття для сортування
+    </button>
+    <button id="notes" class="menu-button">
+      <i class="fas fa-sticky-note"></i> Примітки
+    </button>
+  </div>
+
+  <!-- Popup for AI helper -->
+  <div id="ai-popup" class="popup hidden">
+    <h2>AI-помічник</h2>
+    <input type="file" id="upload-image" accept="image/*">
+    <button id="send-image">Надіслати</button>
+    <p id="ai-result"></p>
+    <button id="close-ai">Закрити</button>
+  </div>
+
+  <!-- Popup for text content -->
+  <div id="text-popup" class="popup hidden">
+    <h2 id="popup-title"></h2>
+    <p id="popup-content"></p>
+    <button id="close-text">Закрити</button>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
