@@ -21,7 +21,7 @@ Environmental consciousness starts with small steps. This app bridges the gap be
 ---
 
 ## Demo of the project
-<img src="/Screen Recording Nov 29 2024.gif/" width=40% height=40%/>
+<img src="/Screen Recording Nov 29 2024.gif/" width=30% height=30%/>
 
 
 ---
