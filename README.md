@@ -1,48 +1,33 @@
-# ♻️ Waste Sorting Awareness PWA 🌍  
-**A Progressive Web App designed to promote waste sorting awareness. Empowering individuals to make informed recycling decisions with AI-powered image classification.**
+# Waste Sorting Awareness PWA
 
----
+A progressive web app that helps users understand how to sort waste properly. Upload a photo of an item and the app uses an AI classifier to suggest the correct waste category.
 
-## 📜 Features  
-- **📝 Informational Text:**  
-  - Quick-access buttons provide easy-to-read waste management tips.  
+## Features
 
-- **🤖 AI Assistant:**  
-  - Upload an image to identify the waste category using our server-hosted AI classifier.  
+- Simple waste management tips accessible via quick buttons  
+- Upload an image to identify the waste type using a neural network classifier  
+- Designed as a Progressive Web App for desktop and mobile use
 
-- **📱 PWA-Friendly:**  
-  - Works seamlessly on both desktop and mobile devices, thanks to the Progressive Web App format!  
+## Why this project?
 
----
+Many people want to recycle but aren't sure how. This app aims to make waste sorting easier and more approachable by offering quick guidance and visual recognition.
 
-## 🎯 Why This Project?  
-Environmental consciousness starts with small steps. This app bridges the gap between confusion and clarity in waste sorting, helping reduce landfill contributions and encouraging recycling efforts.
+## Demo
 
----
+![Demo](Screen%20Recording%20Nov%2029%202024.gif)
 
-## Demo of the project
-<img src="/Screen Recording Nov 29 2024.gif/" width=30% height=30%/>
+## Tech Stack
 
+- **Frontend:** HTML, CSS, JavaScript (with PWA support)  
+- **Backend:** PHP  
+- **AI Classifier:** Python-based neural network for material categorization
 
----
+## Requirements
 
-## 🛠️ Tech Stack  
-- **Frontend:**  
-  - HTML5, CSS3, JavaScript (PWA integration)  
-- **Backend:**  
-  - PHP (For server-side image classification)  
-- **AI Classifier:**  
-  - Neural Network trained to categorize materials (e.g., glass, plastic, etc.)  
+- Python 3.8+  
+- PHP  
+- Required Python packages for neural network functionality
 
----
+## Note
 
-## 🚀 Setup requirements:
-- Python 3.8 or above  
-- PHP
-- Python modules for neural network developement
-
-
----
-
-## Note:
-### The software is provided as is and can be best described as "works on my machine". If you want to use it on your local machine, be ready to port and debug.
+This project is not production-ready and may require adjustments to run on different machines.
